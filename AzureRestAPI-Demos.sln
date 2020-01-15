@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureRestAPI-Demos", "AzureRestAPI-Demos\AzureRestAPI-Demos.csproj", "{18144995-1401-4F15-9A61-CCEB4BC94093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18144995-1401-4F15-9A61-CCEB4BC94093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18144995-1401-4F15-9A61-CCEB4BC94093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18144995-1401-4F15-9A61-CCEB4BC94093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18144995-1401-4F15-9A61-CCEB4BC94093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2F5DC3C-2C1D-41EA-BDBD-85EC330DCF94}
+	EndGlobalSection
+EndGlobal
